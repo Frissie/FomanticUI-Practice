@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Frissie/FomanticUI-Practice/issues"
   },
-  "homepage": "https://github.com/Frissie/FomanticUI-Practice#readme"
+  "homepage": "https://github.com/Frissie/FomanticUI-Practice#readme",
+  "dependencies": {
+    "fomantic-ui": "^2.8.7"
+  }
 }
