@@ -1,27 +1,30 @@
 body {
     padding: 10px;
+    background-color: black;
+        color: white;
 }
 
-#nav-bar {
-
+.ui.inverted.segment {
+    background-color: grey;
 }
 
-#nav-bar ul {
-    display:flex;
-    background-color: lightgray;
+.ui.inverted.secondary.pointing.menu {
+    -background-color: black;
+}
+
+.activeitem
+
+.ui.checkbox {
+    background-color: black;
     
 }
 
-#nav-bar ul li {
-    list-style: none;
-    flex-direction: row;
-    padding: 2px;
-    margin: 10px;
-    
+.ui.checkbox label {
+    color: white;
 }
 
 #ingredients {
-    background-color: lightskyblue;
+
 }
 
 #ingredients ul li {
