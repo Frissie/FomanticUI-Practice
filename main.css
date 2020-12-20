@@ -1,32 +1,14 @@
 body {
     padding: 10px;
-    background-color: black;
-        color: white;
+    background-color: rgb(235, 236, 223);
+    color: black;
+    display: flex;
 }
 
-.ui.inverted.segment {
-    background-color: grey;
+#container {
+    text-align: center;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.ui.inverted.secondary.pointing.menu {
-    -background-color: black;
-}
-
-.activeitem
-
-.ui.checkbox {
-    background-color: black;
-    
-}
-
-.ui.checkbox label {
-    color: white;
-}
-
-#ingredients {
-
-}
-
-#ingredients ul li {
-    list-style: none;
-}
