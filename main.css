@@ -1,0 +1,29 @@
+body {
+    padding: 10px;
+}
+
+#nav-bar {
+
+}
+
+#nav-bar ul {
+    display:flex;
+    background-color: lightgray;
+    
+}
+
+#nav-bar ul li {
+    list-style: none;
+    flex-direction: row;
+    padding: 2px;
+    margin: 10px;
+    
+}
+
+#ingredients {
+    background-color: lightskyblue;
+}
+
+#ingredients ul li {
+    list-style: none;
+}
